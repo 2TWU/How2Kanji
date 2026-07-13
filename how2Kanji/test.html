@@ -1,22 +1,22 @@
 <!DOCTYPE html>
 <html>
 <head>
-
+  <style>
+    ruby{
+      font-size: 30px;
+    }
+  </style>
 </head>
 <body>
+  <!-- 基礎寫法（現代瀏覽器皆支援） -->
+  <ruby>漢字<rt>かんじ</rt></ruby>
+  <br>
+  <!-- 帶有相容性相容舊瀏覽器的完整寫法 -->
   <ruby>
-  天<rt>あま</rt>
-  の<rt></rt>
-  川<rt>がわ</rt>
-</ruby>
-<!-- 基礎寫法（現代瀏覽器皆支援） -->
-<ruby>漢字<rt>かんじ</rt></ruby>
-
-<!-- 帶有相容性相容舊瀏覽器的完整寫法 -->
-<ruby>
-  日本語<rp>（</rp><rt>にほんご</rt><rp>）</rp>
-</ruby>
-
-<script type="module" src="main.js"></script>
+    日本語<rp>（</rp><rt>にほんご</rt><rp>）</rp>
+  </ruby>
+  <br>
+  <!--逐字對齊-->
+  <ruby>天<rt>あま</rt>の<rt></rt>川<rt>がわ</rt></ruby>
 </body>
 </html>

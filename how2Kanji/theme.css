@@ -119,8 +119,10 @@ p{
 }
 
 ruby{
+  color: var(--text-primary);
   font-size: 20px;
 }
 ruby:rt{
+  color: var(--text-primary);
   font-size: 10px;
 }

@@ -32,6 +32,6 @@ Platform :  Firefox & Chrome
 ##  任務 
 - 
 ##  資源 
-- [開源API :漢字 kanjiapi.dev ](https://kanjiapi.dev/#!/documentation)
+- [開源API : 漢字 kanjiapi.dev ](https://kanjiapi.dev/#!/documentation)
 ##  計畫紀錄 
 - 2026/7/13 - 基本擴充套件UI wip 完成 api使用研究
