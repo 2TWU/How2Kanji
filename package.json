@@ -1,0 +1,21 @@
+{
+  "name": "how2kanji",
+  "version": "1.0.0",
+  "description": "---\r title: How2Kanji\r tags:\r - side\r ---",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/2TWU/How2Kanji.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/2TWU/How2Kanji/issues"
+  },
+  "homepage": "https://github.com/2TWU/How2Kanji#readme"
+}
